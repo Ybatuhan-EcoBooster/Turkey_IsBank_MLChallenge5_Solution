@@ -11,6 +11,7 @@ I predicted the most prefer menus given from  data sets with external factors. W
 - [Data Sets](https://www.kaggle.com/competitions/turkiye-is-bankasi-ml-challenge-5/data)
 - [CatBoost Model](https://catboost.ai/en/docs/concepts/python-reference_catboostclassifier)
 - [Türkiye İş Bankası ML Challenge - 5](https://www.kaggle.com/competitions/turkiye-is-bankasi-ml-challenge-5/overview)
+- [My Kaggle Page](https://www.kaggle.com/ecobooster)
 
 ## Conclusion 👨🏻‍💻
 
